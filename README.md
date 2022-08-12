@@ -4,4 +4,3 @@
 1. töltsd le
 2. telepítsd fel
 3. élvezd
-4. Töröld le!
