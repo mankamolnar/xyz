@@ -4,4 +4,5 @@
 1. töltsd le
 2. telepítsd fel
 3. élvezd
-4. de mégis kell
+4. Ha meguntad töröld le!
+5. de mégis kell
